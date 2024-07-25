@@ -1,6 +1,10 @@
 # IOT-Final-Project- Fall Detection
 
 
+[![Watch the Video](https://img.youtube.com/vi/3EkIE4HaWGg/maxresdefault.jpg)](https://www.youtube.com/watch?time_continue=4&v=3EkIE4HaWGg&source_ve_path=MTM5MTE3LDI4NjYzLDEzOTExNywyMzg1MQ)
+
+[Watch the video here](https://www.youtube.com/watch?time_continue=4&v=3EkIE4HaWGg&source_ve_path=MTM5MTE3LDI4NjYzLDEzOTExNywyMzg1MQ)
+
 ## Overview
 
 ElderShield is an innovative IoT solution designed to enhance the safety and well-being of elderly individuals living alone. By leveraging the power of modern technology and the Internet, ElderShield acts as a virtual guardian, providing peace of mind to both the elderly and their loved ones. This project combines an ESP32 microcontroller, various sensors, and internet connectivity via Blynk and Make to create a wearable and adaptable system that ensures timely assistance in critical situations.
